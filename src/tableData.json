@@ -1,0 +1,26 @@
+[
+ {
+   "Zone": 1,
+   "Available": 3,
+   "LeavingSoon": 4,
+   "Occupied": 5
+ },
+ {
+   "Zone": 2,
+   "Available": 1,
+   "LeavingSoon": 2,
+   "Occupied": 3
+ },
+ {
+   "Zone": 3,
+   "Available": 5,
+   "LeavingSoon": 3,
+   "Occupied": 4
+ },
+ {
+   "Zone": 4,
+   "Available": 8,
+   "LeavingSoon": 4,
+   "Occupied": 5
+ }
+]

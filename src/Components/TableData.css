@@ -1,0 +1,60 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 10px;
+  background-color: white;
+  margin: 2%;
+  width: 22.5vh;
+  height: 15vh;
+}
+
+.title {
+  font-weight: bolder;
+  padding-top: 3%;
+  font-size: x-large;
+}
+
+.valuebox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 60%;
+  font-size: large;
+}
+
+.val {
+  font-size: 5vh;
+}
+
+.unit {
+  font-size: small;
+  margin-top: 50%;
+  padding-left: 5%;
+}
+.black{
+  color:black;
+}
+.red {
+  color:red;
+}
+.blue {
+  color:rgb(32, 71, 178);
+}
+.green {
+  color:greenyellow
+}
+.purple {
+  color:purple;
+}
+.orange {
+  color:orange;
+}
+.cyan {
+  color:cyan;
+}
+.grey{
+  color:grey;
+}

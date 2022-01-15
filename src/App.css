@@ -1,0 +1,43 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 2%;
+  height: 8vh;
+  background-color: lightskyblue;
+  font-size: x-large;
+  text-align: center;
+}
+
+.newRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.clabel {
+  margin-left: 2%;
+  margin-top: 2%;
+  font-size: larger;
+  color: white;
+  font-weight: bold;
+}
+.control {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 2%;
+}
+
+button {
+  width: 70vh;
+  height: 20vh;
+  font-size: 2em;
+  font-weight: bold;
+}

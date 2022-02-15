@@ -10,5 +10,5 @@ To showcase the proof of concept within this 3 day hackathon, our team of 3 made
 - Using the Flask API library and ReactJS as the frontend to display the occupancy status information on a webpage (simulating a central display)
 
 Note:
-- LEDlightingdraft.ino was used to indicate the occupancy status of the table using LEDs and sensors, and sending the data to the central computer using the wifi module
+- LEDlightingdraft.ino was used for the arduino to indicate the occupancy status of the table using LEDs and sensors, and sending the data to the central computer using the wifi module
 - Files under the src folder were used to display the webpage (central display), and the node Modules were not added due to size limit (in case you want to do an npm start with the files directly)

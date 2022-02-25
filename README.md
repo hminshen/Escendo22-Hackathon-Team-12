@@ -11,4 +11,4 @@ To showcase the proof of concept within this 3 day hackathon, our team of 3 made
 
 Note:
 - LEDlightingdraft.ino was used for the arduino to indicate the occupancy status of the table using LEDs and sensors, and sending the data to the central computer using the wifi module
-- Files under the src folder were used to display the webpage (central display), and the node Modules were not added due to size limit (in case you want to do an npm start with the files directly)
+- Files under the src folder were used to display the webpage (central display), so you need to do an npm install first before doing an npm run start to start the page
